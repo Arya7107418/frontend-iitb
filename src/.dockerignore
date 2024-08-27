@@ -1,5 +1,17 @@
+
 node_modules
+
 npm-debug.log
 build
 .dockerignore
 Dockerfile
+
+.git
+.gitignore
+.env
+dist
+coverage
+*.log
+*.bak
+*.tmp
+temp/
